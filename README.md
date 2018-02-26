@@ -7,6 +7,6 @@ Data cleaning & Data Distribution analysis across valid categorical and continuo
 Developed linear regression models with significant independent variables & evaluated their significance.
 
 
-Click the [script](https://drive.google.com/open?id=1TREqyt3YLkB77pp7ZHk-45HqmyatJnx-) to view thw HTML file. 
+Click the [script](https://drive.google.com/open?id=1TREqyt3YLkB77pp7ZHk-45HqmyatJnx-) to view the PDF file. 
 
 Please download the above PDF File to view the content.
